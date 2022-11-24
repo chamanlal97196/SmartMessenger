@@ -6,10 +6,13 @@ An android application which can be used to prevent from the message interceptio
 ● Choice of the key between the sender and receiver is also provided. Other features like speech to text conversion.
 <br>
 There are 4 Algorithms are use in orer to encrypt and decrypt the based.
-
+<br>
 ● AES
+<br>
 ● DES
+<br>
 ● RSA
+<br>
 ● MD5
 
 You can make clone here : https://github.com/chamanlal97196/SmartMessenger
